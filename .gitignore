@@ -1,0 +1,5 @@
+*.sqlite
+test.py
+.vscode/
+.idea/
+*.pyc
